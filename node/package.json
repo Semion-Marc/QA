@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Das-dasein/selenium-start.git"
+  },
+  "keywords": [],
+  "author": "Semion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Das-dasein/selenium-start/issues"
+  },
+  "homepage": "https://github.com/Das-dasein/selenium-start#readme",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.2",
+    "test": "file:"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
